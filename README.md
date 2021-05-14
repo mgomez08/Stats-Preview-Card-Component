@@ -23,7 +23,7 @@ In the following link you can find the challenge website.
 To install the project it is only necessary to clone the repository and later open it with a code editor.
 
 ```sh
-git clone https://mgomez08.github.io/Stats-Preview-Card-Component/
+git clone git@github.com:mgomez08/Stats-Preview-Card-Component.git
 ```
 
 ## 📚License
