@@ -5,9 +5,7 @@
 This is a Frontendmentor challenge, it consists of a card component with responsive design.
 
 ## 📱Screenshots
-Mobile preview
 ![App Screenshot](https://raw.githubusercontent.com/mgomez08/Stats-Preview-Card-Component/master/images/mobile-screenshot.JPG)
-Desktop preview
 ![App Screenshot](https://raw.githubusercontent.com/mgomez08/Stats-Preview-Card-Component/master/images/desktop-screenshot.JPG)
 
 ## Link to challenge website
